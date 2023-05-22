@@ -69,5 +69,13 @@ a {
     padding: 10px 20px;
     align-self: flex-start;
 }
-
 /*head text style end*/
+
+.middle h1 {
+    text-align: center;
+    margin: 60px auto;
+}
+
+.card-container {
+    display: flex;
+}
