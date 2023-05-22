@@ -74,7 +74,7 @@ a {
     align-self: flex-start;
 }
 /*head text style end*/
-
+/*middle style start*/
 .middle h1 {
     text-align: center;
     margin: 60px auto;
@@ -109,3 +109,4 @@ a {
     text-align: center;
     font-size: 18px;
 }
+/*middle style end*/
