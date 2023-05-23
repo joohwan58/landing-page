@@ -149,5 +149,21 @@ a {
     background-color: #3882f6;
     display: flex;
     width: 100%;
+    margin: 120px auto;
+    justify-content: space-between;
+    padding: 40px 130px;
+    color: #e5e7eb;
+    border-radius: 25px;
 }
 
+.action button {
+    font-size: 18px;
+    align-self: center;
+    color: #e5e7eb;
+    background-color: #3882f6;
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 7px;
+    padding: 10px 30px;
+}
